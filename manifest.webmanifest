@@ -1,0 +1,9 @@
+{
+  "name": "Everest — большая цель",
+  "short_name": "Everest",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ee",
+  "theme_color": "#f4f2ee",
+  "icons": []
+}
